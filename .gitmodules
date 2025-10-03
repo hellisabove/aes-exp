@@ -4,3 +4,9 @@
 [submodule "3rdparty/pkcs7"]
 	path = 3rdparty/pkcs7
 	url = https://github.com/GRISHNOV/PKCS7-Padding
+[submodule "tiny-AES-c"]
+	path = tiny-AES-c
+	url = https://github.com/kokke/tiny-AES-c
+[submodule "3rdparty/tiny-AES-c"]
+	path = 3rdparty/tiny-AES-c
+	url = https://github.com/kokke/tiny-AES-c
